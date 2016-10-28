@@ -1,2 +1,3 @@
 # hello-world
-this is my first repository
+Hi Humans!
+My name is Nazanin and Im new with GitHub.
